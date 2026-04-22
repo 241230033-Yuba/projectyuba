@@ -6,5 +6,5 @@ use App\Http\Controllers\ProfilController;
 use App\Http\Controllers\KontakController;
 
 Route::get('/', [HomeController::class, 'index']);
-Route::get('/', [ProfilController::class, 'index']);
-Route::get('/', [KontakController::class, 'index']);
+Route::get('/profil', [ProfilController::class, 'index']);
+Route::get('/kontak', [KontakController::class, 'index']);
