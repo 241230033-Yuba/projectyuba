@@ -1,5 +1,5 @@
 <div>
-        <a href="/">Home</a>
+    <a href="/">Home</a>
     <a href="/kontak">kontak</a>
     <a href="/profil">profil</a>
 
