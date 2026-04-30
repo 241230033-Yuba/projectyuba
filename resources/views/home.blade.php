@@ -14,10 +14,11 @@
             <span class="text-blue-400 drop-shadow-lg">Donasiku</span>
         </h1>
 
-        <p class="text-gray-300 text-lg mb-8">
-            Platform donasi digital yang menghadirkan penyaluran bantuan secara cepat, praktis, dan transparan.
+<p class="text-gray-300 text-lg mb-8">
+            Platform donasi digital yang menghadirkan menyalurkan bantuan secara cepat, praktis, dan transparan.
+        </p>
 
-        <!-- CTA Button -->
+<!-- CTA Button -->
         <div class="flex justify-center">
             <a href="/donasi" class="bg-blue-500 text-white px-8 py-3 rounded-xl shadow-lg hover:bg-blue-600 hover:scale-105 transition duration-300">
                 Mulai Donasi Sekarang

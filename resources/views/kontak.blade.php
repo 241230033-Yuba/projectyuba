@@ -20,19 +20,19 @@
 
             <div>
                 <label class="block mb-1">Nama</label>
-                <input type="text"
+                <input type="text" placeholder="Masukan nama"
                     class="w-full px-4 py-2 bg-gray-100 dark:bg-gray-900 border border-gray-300 dark:border-gray-700 rounded-xl focus:ring-2 focus:ring-blue-500 focus:outline-none">
             </div>
 
             <div>
                 <label class="block mb-1">Email</label>
-                <input type="email"
+                <input type="email" placeholder="Masukan email"
                     class="w-full px-4 py-2 bg-gray-100 dark:bg-gray-900 border border-gray-300 dark:border-gray-700 rounded-xl focus:ring-2 focus:ring-blue-500 focus:outline-none">
             </div>
 
             <div>
                 <label class="block mb-1">Pesan</label>
-                <textarea rows="4"
+                <textarea rows="4" placeholder="Tulis pesan"
                     class="w-full px-4 py-2 bg-gray-100 dark:bg-gray-900 border border-gray-300 dark:border-gray-700 rounded-xl focus:ring-2 focus:ring-blue-500 focus:outline-none"></textarea>
             </div>
 

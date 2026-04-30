@@ -20,7 +20,7 @@
                 <span class="absolute left-0 -bottom-1 w-0 h-0.5 bg-blue-400 transition-all group-hover:w-full"></span>
             </a>
 
-            <a href="/profil" class="relative text-gray-300 hover:text-blue-400 transition duration-300 group">
+<a href="/profil" class="relative text-gray-300 hover:text-blue-400 transition duration-300 group">
                 Profil
                 <span class="absolute left-0 -bottom-1 w-0 h-0.5 bg-blue-400 transition-all group-hover:w-full"></span>
             </a>
@@ -38,7 +38,7 @@
 
         <a href="/" class="block text-gray-300 hover:text-blue-400 transition">Home</a>
         <a href="/kontak" class="block text-gray-300 hover:text-blue-400 transition">Kontak</a>
-        <a href="/profil" class="block text-gray-300 hover:text-blue-400 transition">Profil</a>
+<a href="/profil" class="block text-gray-300 hover:text-blue-400 transition">Profil</a>
 
     </div>
 
